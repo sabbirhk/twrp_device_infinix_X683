@@ -17,7 +17,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/omni_CE7.mk
-
-COMMON_LUNCH_CHOICES := \
-     omni_CE7-eng
+     $(LOCAL_DIR)/omni_X683.mk
