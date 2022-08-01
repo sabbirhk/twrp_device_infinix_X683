@@ -138,3 +138,20 @@ TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
 
 TW_DEVICE_VERSION := INFINIX NOTE 8i by: VERGIL
+
+flags:
+
+SHRP_PATH := device/infinix/x683
+SHRP_MAINTAINER := sabbirhk
+SHRP_DEVICE_CODE := x683
+SHRP_EDL_MODE := 0
+SHRP_EXTERNAL := /external_sd
+SHRP_INTERNAL := /sdcard
+SHRP_OTG := /usb_otg
+SHRP_FLASH := 0
+SHRP_REC := /dev/block/platform/13540000.dwmmc0/by-name/RECOVERY
+SHRP_REC_TYPE := Treble
+SHRP_DEVICE_TYPE := AB
+SHRP_DARK := true
+SHRP_OFFICIAL := false
+SHRP_EXPRESS := true
