@@ -139,7 +139,7 @@ TARGET_USES_LOGD := true
 
 TW_DEVICE_VERSION := INFINIX NOTE 8i by: VERGIL
 
-flags:
+#flags:
 SHRP_PATH := device/infinix/X683
 SHRP_MAINTAINER := sabbirhk
 SHRP_DEVICE_CODE := X683
